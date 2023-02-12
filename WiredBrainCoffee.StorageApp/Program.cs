@@ -51,7 +51,10 @@ static void AddOrganization(IRepository<Organization> organizationRepository)
   
 }
 
-static void AddBatch(IRepository<Organization> organizationRepository, Organization[] organizations)
+/// <summry>
+/// I didn't understand this issue?
+/// </summry>
+private static void AddBatch(IRepository<Organization> organizationRepository, Organization[] organizations)
 {
     foreach(var item in organizations)
     {
