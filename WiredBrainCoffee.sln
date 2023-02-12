@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiredBrainCoffee.StackApp", "WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp.csproj", "{8A8BDB11-082B-41C8-8D08-2F3EEA260F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoffee.StorageApp", "WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp.csproj", "{3487FA7B-6B20-48F1-90BF-52D3CFAE3326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A8BDB11-082B-41C8-8D08-2F3EEA260F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8BDB11-082B-41C8-8D08-2F3EEA260F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8BDB11-082B-41C8-8D08-2F3EEA260F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8BDB11-082B-41C8-8D08-2F3EEA260F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3487FA7B-6B20-48F1-90BF-52D3CFAE3326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3487FA7B-6B20-48F1-90BF-52D3CFAE3326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3487FA7B-6B20-48F1-90BF-52D3CFAE3326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3487FA7B-6B20-48F1-90BF-52D3CFAE3326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC61719-348B-4D66-9164-D96A5A6E50BD}
+	EndGlobalSection
+EndGlobal
